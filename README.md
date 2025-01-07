@@ -1,4 +1,2 @@
-# github
-this is for class exercise
+# Heading of Readme File
 
-# changes has made
